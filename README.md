@@ -25,5 +25,5 @@ Esse é um projeto da faculdade, onde, desenvolvi uma calculadora em **Python**!
 - [x] Adicionada função de histórico
 - [x] Tratamento de erros melhorado
 - [x] Histórico de cálculos
-- [ ] Mostrar as últimas operações realizadas e permitir repetir alguma delas.
-- [ ] Entrada inválida (ex: abc)
+- [x] Mostrar as últimas operações realizadas e permitir repetir alguma delas.
+- [x] Entrada inválida (ex: abc)
